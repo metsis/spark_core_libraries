@@ -1,7 +1,7 @@
 /*  
     library for accessing barometric pressure data 
     on the BMP180 sensor through the I2C/Wire interface
-    @author mika.metsaniemi@gmail.com
+    @author mika.metsaniemi - gmail.com
     by Omen Solutions 2014
 */
 
